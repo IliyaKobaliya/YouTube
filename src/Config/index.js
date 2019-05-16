@@ -1,0 +1,1 @@
+export const API_HOST = "https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIzaSyDGQ8KL_sJCVnC1JDHuUVUaXIMs_9nPdEI&maxResults=10&type=video&q=";
